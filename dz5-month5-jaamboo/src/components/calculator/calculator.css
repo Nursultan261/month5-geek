@@ -1,0 +1,39 @@
+.calculator {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center; 
+  }
+  
+  .input-container {
+    margin-bottom: 20px;
+    display: flex; 
+    justify-content: center; 
+  }
+  
+  .input-container input {
+    width: 60%; 
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+  }
+  
+  .button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .button-container button {
+    flex-basis: calc(50% - 10px);
+    margin-bottom: 10px;
+    padding: 15px;
+    font-size: 20px;
+    color: #000000;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+
+  
