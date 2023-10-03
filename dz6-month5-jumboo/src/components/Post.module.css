@@ -1,0 +1,15 @@
+
+  .post-title {
+    font-size: 24px;
+    margin-bottom: 8px;
+  }
+  
+  .post-details {
+    margin-top: 8px;
+    font-size: 16px;
+  }
+  
+  .post-hidden {
+    display: none;
+  }
+  
